@@ -22,7 +22,7 @@ export function Cta() {
           Join thousands of travelers who have discovered the world with us
         </p>
         <Link
-          href="/destinations"
+          href="/destination"
           className="mt-10 inline-flex h-[50px] items-center justify-center gap-5 bg-white px-8 text-[15px] font-medium tracking-[0.04em] text-neutral-950 uppercase transition-colors hover:bg-white/90"
         >
           Book Your Trip Today
